@@ -340,7 +340,7 @@ const App: React.FC = () => {
                 </button>
               </div>
               <div className="flex-1 relative z-10 animate-float">
-                <img src="./assets/Hero.png" alt="Dry fruits" className="w-full max-w-[400px] drop-shadow-2xl rounded-3xl" />
+                <img src='./assets/Img/Hero.png' alt="Dry fruits" className="w-full max-w-[400px] drop-shadow-2xl rounded-3xl" />
               </div>
             </div>
 
